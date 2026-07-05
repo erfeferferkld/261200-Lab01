@@ -1,7 +1,7 @@
 public class Main{
     public static void main(String[] args){
         Turtle sky = new Turtle();
-        sky.speed(50);
+        sky.speed(55);
         sky.penColor("black");
 
         //draw circle for sun
